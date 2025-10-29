@@ -6,6 +6,7 @@ The goal was to turn raw sales data into meaningful insights through SQL analysi
 
 🎯 Objective
 To identify key performance metrics such as
+
 1.Total revenue and order trends
 
 2.Top-performing products and regions
@@ -15,6 +16,7 @@ To identify key performance metrics such as
 4.Return rate and sales distribution
 
 ⚙️ Tools & Technologies Used
+
 1.SQL	Data querying and filtering for insights 
 
 2.Excel	Data cleaning, analysis, and dashboard creation
