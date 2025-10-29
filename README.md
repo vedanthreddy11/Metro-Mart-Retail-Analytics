@@ -5,10 +5,13 @@ This project focuses on analyzing Metro Mart’s retail sales data to understand
 The goal was to turn raw sales data into meaningful insights through SQL analysis and an Excel dashboard.
 
 🎯 Objective
-To identify key performance metrics such as:
+To identify key performance metrics such as
 1.Total revenue and order trends
+
 2.Top-performing products and regions
+
 3.Customer age groups
+
 4.Return rate and sales distribution
 
 ⚙️ Tools & Technologies Used
