@@ -1,6 +1,4 @@
-# Metro-Mart-Retail-Analytics
-🛍️ Metro Mart Retail Analytics
-📘 About the Project
+# 🛍️Metro-Mart-Retail-Analytics
 This project focuses on analyzing Metro Mart’s retail sales data to understand customer behavior, product performance, and overall business trends.
 The goal was to turn raw sales data into meaningful insights through SQL analysis and an Excel dashboard.
 
