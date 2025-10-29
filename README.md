@@ -15,13 +15,15 @@ To identify key performance metrics such as
 4.Return rate and sales distribution
 
 ⚙️ Tools & Technologies Used
-1.SQL	Data querying and filtering for insights
+1.SQL	Data querying and filtering for insights 
+
 2.Excel	Data cleaning, analysis, and dashboard creation
+
 3.Pivot Tables & Charts	Summarizing data and visualizing key trends
 
 💡 Key Insights
-West region generated the highest revenue among all regions.
-Mobiles were the most sold product category.
-The 18–25 age group contributed the highest number of orders.
+West region generated the highest revenue among all regions,
+Mobiles were the most sold product category,
+The 18–25 age group contributed the highest number of orders,
 Around 11.8% of total orders were returned, indicating possible improvement areas.
 
